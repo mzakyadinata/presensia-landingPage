@@ -7,7 +7,7 @@ function Faq() {
       <div className="w-screen h-100 flex flex-col " id="faq">
         <div className="w-screen h-max  p-5 flex flex-col items-center gap-5 poppins">
           <h1
-            className="font-semibold text-[max(3vw,5vh)] md:text-center text-left"
+            className="font-semibold text-[max(3vw,4vh)] text-center "
             data-aos="fade-up"
           >
             Hmmm, Kamu Punya Pertanyaan?
