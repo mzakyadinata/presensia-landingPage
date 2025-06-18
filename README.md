@@ -1,12 +1,38 @@
-# React + Vite
+# Presensia Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ini adalah landing page untuk aplikasi **Presensia**, dibangun dengan React, Tailwind CSS, dan Vite. Proyek ini menampilkan antarmuka modern dan ringan yang cocok untuk keperluan presentasi, promosi, atau dokumentasi aplikasi berbasis kehadiran (presensi).
 
-Currently, two official plugins are available:
+## Fitur
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Dibangun dengan React 19
+- Styling modern menggunakan Tailwind CSS 4
+- Animasi dengan AOS (Animate On Scroll)
+- Ikon dari Heroicons & React Icons
+- Pengembangan cepat menggunakan Vite
+- Linting dengan ESLint
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React 19**
+- **Tailwind CSS 4**
+- **Vite 6**
+- **AOS**
+- **Heroicons**
+- **React Icons**
+
+## Skrip
+
+Berikut adalah skrip yang tersedia:
+
+```bash
+# Menjalankan mode development
+npm run dev
+
+# Build untuk production
+npm run build
+
+# Menjalankan linting
+npm run lint
+
+# Preview hasil build
+npm run preview
