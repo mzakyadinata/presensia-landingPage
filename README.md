@@ -2,8 +2,6 @@
 
 Ini adalah landing page untuk aplikasi **Presensia**, dibangun dengan React, Tailwind CSS, dan Vite. Proyek ini menampilkan antarmuka modern dan ringan yang cocok untuk keperluan presentasi, promosi, atau dokumentasi aplikasi berbasis kehadiran (presensi).
 
-## Fitur
-
 - Dibangun dengan React 19
 - Styling modern menggunakan Tailwind CSS 4
 - Animasi dengan AOS (Animate On Scroll)
